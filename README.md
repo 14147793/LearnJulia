@@ -1,2 +1,3 @@
-# WebsiteNotebooks
-Markdown  Files for Workshop Pages
+# Learn julia
+
+Markdown Files and Jupyter Notebooks for Learning Julia
