@@ -6,9 +6,9 @@ If you wish to try Julia related topics for the github project, here are the det
 
 ### 1. Grading Scheme
 - 10% Open source computation is broken down as follows
-  - 2.5% for using Github
-  - 7.5% for three grading units (i.e. three mini-projects, such as Julia Notebooks) 
-  - (I amended this breakdown slightly, since I announced it in class in Week 1)
+   - 2.5% for using Github
+   - 7.5% for three grading units (i.e. three mini-projects, such as Julia Notebooks) 
+   - (I amended this breakdown slightly, since I announced it in class in Week 1)
 
 ### 2. Setting up an account.
 - Use your github account to set up an account on JuliaBox.com.
